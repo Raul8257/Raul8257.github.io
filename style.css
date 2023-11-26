@@ -1,0 +1,16 @@
+body {
+    background-color: #0B0C1F;
+}
+
+#color {
+    color: white;
+}
+
+#color2 {
+    color: red;
+}
+
+#color3 {
+    color: gray;
+    background-color: green;
+}
